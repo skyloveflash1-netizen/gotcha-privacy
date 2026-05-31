@@ -23,8 +23,8 @@ To provide core functionalities, we require the following permissions:
 
 **3. Data Sync and Backup**
 
-*   If you enable iCloud sync, your app data is securely stored in your personal Apple iCloud account. We have no access to this data.
-*   The built-in ZIP export/import feature operates entirely within your device's local file system and is fully controlled by you.
+*   If you enable iCloud sync, your app data is securely stored in your personal Apple iCloud account using Apple's built-in security mechanisms. We have no access to this data.
+*   The built-in ZIP export/import feature generates **unencrypted**, standard ZIP files. This process operates entirely locally on your device and is fully controlled by you. Please keep your exported files safe when sharing or storing them.
 
 
 **4. Contact Us**
@@ -48,8 +48,9 @@ Gotcha 是一款主打「純本機運行」的應用程式。我們**不收集�
 
 
 **3. 資料同步與備份**
-*   如果您開啟了 iCloud 同步，您的應用程式資料將加密保存在您個人的 Apple iCloud 帳號中，我們無法存取這些資料。
-*   應用程式內建的 ZIP 匯出/匯入功能，僅在您的裝置本機檔案系統中運行，完全由您自主控制。
+
+*   如果您開啟了 iCloud 同步，您的應用程式資料將透過 Apple iCloud 內建的安全性機制，安全地保存在您個人的 Apple 帳號中，我們無法存取這些資料。
+*   應用程式內建的 ZIP 匯出/匯入功能，會產生**未加密**的標準壓縮檔。此功能僅在您的裝置本機檔案系統中運行，完全由您自主控制。若您要將匯出檔案分享或儲存於他處，請自行妥善保管。
 
 
 **4. 聯絡我們**
