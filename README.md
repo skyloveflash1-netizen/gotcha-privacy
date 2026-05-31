@@ -2,7 +2,8 @@
 
 **Last Updated: June 2026** / **最後更新日期：2026年6月**
 
-Welcome to Gotcha! We deeply value your privacy. This policy explains how we handle your data. / 歡迎使用 Gotcha！我們深知隱私對您的重要性。本隱私權政策旨在向您說明 Gotcha 如何處理您的資料。
+Welcome to Gotcha! We deeply value your privacy. This policy explains how we handle your data. 
+歡迎使用 Gotcha！我們深知隱私對您的重要性。本隱私權政策旨在向您說明 Gotcha 如何處理您的資料。
 
 ---
 
@@ -20,7 +21,7 @@ To provide core functionalities, we require the following permissions:
 *   The built-in ZIP export/import feature operates entirely within your device's local file system and is fully controlled by you.
 
 **4. Contact Us**
-If you have any questions regarding this privacy policy, please contact us at:
+*   If you have any questions regarding this privacy policy, please contact us at:
 *   **Email:** skyloveflash@gmail.com
 
 ---
@@ -39,5 +40,5 @@ Gotcha 是一款主打「純本機運行」的應用程式。我們**不收集�
 *   應用程式內建的 ZIP 匯出/匯入功能，僅在您的裝置本機檔案系統中運行，完全由您自主控制。
 
 **4. 聯絡我們**
-如果您對本隱私權政策有任何疑問，請聯絡我們。
+*   如果您對本隱私權政策有任何疑問，請聯絡我們。
 *   **電子郵件：** skyloveflash@gmail.com
