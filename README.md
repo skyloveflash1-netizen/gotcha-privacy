@@ -3,6 +3,7 @@
 **Last Updated: June 2026** / **最後更新日期：2026年6月**
 
 Welcome to Gotcha! We deeply value your privacy. This policy explains how we handle your data. 
+
 歡迎使用 Gotcha！我們深知隱私對您的重要性。本隱私權政策旨在向您說明 Gotcha 如何處理您的資料。
 
 ---
