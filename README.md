@@ -11,10 +11,10 @@ Welcome to Gotcha! We deeply value your privacy. This policy explains how we han
 ## English Version
 
 **1. Data Collection and Storage**
-Gotcha is designed as a "local-first" application. We **do not collect, store, or transmit** any of your personal data, item images, or usage habits to any third-party servers.
+### Gotcha is designed as a "local-first" application. We **do not collect, store, or transmit** any of your personal data, item images, or usage habits to any third-party servers.
 
 **2. Core Permissions**
-To provide core functionalities, we require the following permissions:
+### To provide core functionalities, we require the following permissions:
 *   **Camera & Photo Library:** Used solely for capturing and selecting item photos. All image processing (including AI recognition and OCR) is performed locally on your device.
 
 **3. Data Sync and Backup**
