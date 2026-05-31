@@ -17,4 +17,4 @@ Gotcha 是一款主打“纯本地运行”的应用程序。我们**不收集�
 
 **4. 联系我们**
 *   如果您对本隐私政策有任何疑问，请联系我们。
-*   **电子邮件：**skyloveflash@gmail.com
+*   **电子邮件：** skyloveflash@gmail.com
